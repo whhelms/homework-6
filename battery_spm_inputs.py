@@ -39,8 +39,8 @@ beta_an = 0.5 # Symmetry parameter
 
 
 i_o_ca = 1e-3 # Exchange current density, A/m2
-n_ca = 1# Charge equivalents transfered to cathode
-beta_ca = 0.5# Symmetry parameter
+n_ca = 1 # Charge equivalents transfered to cathode
+beta_ca = 0.5 # Symmetry parameter
 
 
 " Material properties "
